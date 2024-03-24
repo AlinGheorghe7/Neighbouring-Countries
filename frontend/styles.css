@@ -1,0 +1,28 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color:bisque;
+    text-align: center;
+    color: white;
+    background-image: url(https://wallpapercave.com/wp/wp2115638.jpg);
+    background-size: 100%;
+
+  }
+
+p{
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color:orange;  
+}
+button {
+    position: relative;
+    font-size: 1.2em;
+  }
+
+main{
+    
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    color:azure;  
+}
